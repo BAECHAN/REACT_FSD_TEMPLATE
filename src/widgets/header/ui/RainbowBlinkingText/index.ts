@@ -1,0 +1,1 @@
+export { RainbowBlinkingText } from './RainbowBlinkingText';
