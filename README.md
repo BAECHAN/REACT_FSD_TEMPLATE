@@ -2,7 +2,7 @@
 
 Feature-Sliced Design 아키텍처를 적용한 React + TypeScript 프로젝트 템플릿입니다.
 
-<img width="1318" height="580" alt="image" src="https://github.com/user-attachments/assets/23f2c044-e077-40cf-9be3-2458722f0577" />
+<img width="1293" height="845" alt="image" src="https://github.com/user-attachments/assets/23810a3e-dcf4-408e-85f2-1381b0300277" />
 
 ## 📚 문서
 
