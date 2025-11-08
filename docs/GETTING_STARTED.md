@@ -29,7 +29,7 @@ cd <원하는-프로젝트-이름>
 **예시:**
 
 ```bash
-git clone https://github.com/username/dorosee-template-react-fsd.git my-awesome-project
+git clone https://github.com/BAECHAN/REACT_FSD_TEMPLATE.git my-awesome-project
 cd my-awesome-project
 ```
 
@@ -41,10 +41,10 @@ cd my-awesome-project
 # package.json 파일 열어서 name 필드 수정
 # 또는 간단히 sed 명령어로 변경
 # macOS/Linux:
-sed -i '' 's/"name": "dorosee-react-template"/"name": "your-project-name"/' package.json
+sed -i '' 's/"name": "REACT_FSD_TEMPLATE"/"name": "your-project-name"/' package.json
 
 # Linux (GNU sed):
-# sed -i 's/"name": "dorosee-react-template"/"name": "your-project-name"/' package.json
+# sed -i 's/"name": "REACT_FSD_TEMPLATE"/"name": "your-project-name"/' package.json
 ```
 
 **주의사항:**
@@ -271,7 +271,7 @@ npm run dev
 ### 전체 디렉토리 구조
 
 ```
-dorosee-template-react-fsd/
+REACT_FSD_TEMPLATE/
 ├── public/                 # 정적 파일
 │   ├── fonts/             # 폰트 파일
 │   └── images/            # 이미지 파일
